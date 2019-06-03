@@ -79,7 +79,7 @@ Kowloon, Hong Kong
 Irvington, New Jersey
 
 Parsippany, New Jersey
-
+Atlanta, Georgia
 Haworth, New Jersey
 
 Huntington, New York
@@ -95,3 +95,11 @@ Forks of Salmon, California
 Little Rock, Arkansas
 
 Rivera Beach, Florida 
+
+San Diego, California
+
+Kigali, Rwanda
+
+Laurel, Maryland, USA
+
+Atlanta, Georgia
